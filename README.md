@@ -1,13 +1,13 @@
 # Commands for run
-node 20
-npm intall
+- node 20
+- npm intall
 
 1. run backend
-npx prisma generate
-npm run start:dev
+   - npx prisma generate
+   - npm run start:dev
 
 2. run frontend
-npm run dev
+   - npm run dev
 
 From the front-end application, you can generate a new call and then simulate the interaction using real-time sockets.
 
